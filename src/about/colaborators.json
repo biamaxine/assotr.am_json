@@ -1,0 +1,34 @@
+{
+  "colaborators": [
+    {
+      "id": "1",
+      "pictureUrl": "https://img.freepik.com/free-photo/portrait-young-girl-smiling_23-2149260597.jpg?t=st=1726847555~exp=1726851155~hmac=ae8100a3110075ace039cfbab5402e125e0287792199f6b604e2f3693648547d&w=740",
+      "name": "Laura Rodrigues",
+      "bio": "Psicóloga na Assotram, Laura oferece apoio emocional para a comunidade trans no Amazonas, promovendo espaços seguros e acolhedores. É uma defensora da aceitação e do empoderamento pessoal."
+    },
+    {
+      "id": "2",
+      "pictureUrl": "https://img.freepik.com/free-photo/medium-shot-woman-relaxing-home_23-2150307065.jpg?t=st=1726847682~exp=1726851282~hmac=3edaed397288d3af00da5c037e6408516a1de80f6d921c2848a263eae6c0fbd1&w=740",
+      "name": "Mariana Costa",
+      "bio": "Socióloga e coordenadora de projetos na Assotram, Mariana trabalha pela igualdade de gênero e desenvolvimento de políticas inclusivas, acreditando na educação como ferramenta contra o preconceito."
+    },
+    {
+      "id": "3",
+      "pictureUrl": "https://img.freepik.com/free-photo/front-view-smiley-man-outdoors_23-2149915911.jpg?t=st=1726847807~exp=1726851407~hmac=441462a1ea3f30aeb4f9efadfb8f8fc1522bbf45f7e5dc18ae9d2d5bb2cfc002&w=360",
+      "name": "Gabriel Silva",
+      "bio": "Assistente social na Assotram, Gabriel oferece apoio jurídico a pessoas trans, usando suas vivências para inspirar resiliência. É um defensor dos direitos humanos e da dignidade de todos."
+    },
+    {
+      "id": "4",
+      "pictureUrl": "https://img.freepik.com/free-photo/close-up-beautiful-girl-portrait-with-purple-hair_23-2150799937.jpg?t=st=1726847672~exp=1726851272~hmac=82062eecc50b3841b5f06c14acedcd944356ffc8a90d3fbabeed48b02ae88556&w=740",
+      "name": "Renata Albuquerque",
+      "bio": "Renata é educadora e ministra oficinas de conscientização sobre diversidade de gênero na Assotram. Com sua experiência em educação inclusiva, ela acredita na importância de dialogar com jovens e adultos sobre respeito e empatia."
+    },
+    {
+      "id": "5",
+      "pictureUrl": "https://img.freepik.com/free-photo/stylish-young-bearded-male-blogger-with-backpack-posing-outdoors-while-recording-video-taking-selfie_273609-1861.jpg?t=st=1726847923~exp=1726851523~hmac=2169b4def12078ccc5fa1670731dc97629403681a36e0e74793c92d8367225c6&w=740",
+      "name": "Felipe Nascimento",
+      "bio": "Felipe é advogado especializado em direitos LGBTQIA+. Na Assotram, ele presta consultoria jurídica para pessoas trans, ajudando-as a garantirem seus direitos. Felipe é comprometido com a luta pela justiça e igualdade."
+    }
+  ]
+}
